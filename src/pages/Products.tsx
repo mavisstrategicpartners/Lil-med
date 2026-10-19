@@ -5,8 +5,6 @@ import {
   categories as CATS,
   products as LOCAL,
   formatZAR,
-  subcategoriesFor,
-  countInSubcategory,
   type Product,
 } from "../data/products";
 import { useCart } from "../context/CartContext";
@@ -119,8 +117,6 @@ export default function Products() {
     else setParams({ category, sub: s });
   }
 
-  const subs = subcategoriesFor(category);
-
   return (
     <div className="bg-white">
       <section className="relative overflow-hidden bg-brand-navy py-16 text-white">
@@ -175,61 +171,25 @@ export default function Products() {
               </button>
             ))}
           </div>
+
+          {subCat !== "All" && (
+            <div className="mt-3 flex items-center gap-2">
+              <span className="text-xs text-brand-charcoal/70">Filtered by sub-category:</span>
+              <span className="inline-flex items-center gap-1.5 rounded-full bg-brand-teal/10 px-3 py-1 text-xs font-semibold text-brand-teal">
+                {subCat}
+                <button
+                  type="button"
+                  onClick={() => updateSub("All")}
+                  className="ml-1 text-brand-teal/80 hover:text-brand-navy font-bold"
+                  title="Clear sub-category filter"
+                >
+                  ×
+                </button>
+              </span>
+            </div>
+          )}
         </div>
       </section>
-
-      {subs.length > 0 && (
-        <section className="border-b border-black/5 bg-brand-cream/60">
-          <div className="mx-auto max-w-7xl px-4 py-6 md:px-8">
-            <span className="text-[10px] font-bold uppercase tracking-[0.28em] text-brand-charcoal/50">
-              {category} — choose a sub-category
-            </span>
-            <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              <button
-                onClick={() => updateSub("All")}
-                className={`btn-shine group rounded-2xl border px-5 py-4 text-left transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg ${
-                  subCat === "All"
-                    ? "border-brand-navy bg-brand-navy text-white shadow-lg"
-                    : "border-black/10 bg-white text-brand-navy hover:border-brand-navy/40"
-                }`}
-              >
-                <span className="block text-base font-bold">All {category}</span>
-                <span
-                  className={`mt-1 block text-xs ${subCat === "All" ? "text-white/75" : "text-brand-charcoal/60"}`}
-                >
-                  Show every product in this category (
-                  {products.filter((p) => p.category === category).length})
-                </span>
-              </button>
-              {subs.map((s) => (
-                <button
-                  key={s.name}
-                  onClick={() => updateSub(s.name)}
-                  className={`btn-shine group rounded-2xl border px-5 py-4 text-left transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg ${
-                    subCat === s.name
-                      ? "border-brand-teal bg-brand-teal text-white shadow-lg"
-                      : "border-black/10 bg-white text-brand-navy hover:border-brand-teal/50"
-                  }`}
-                >
-                  <span className="block text-base font-bold">
-                    {s.name}{" "}
-                    <span
-                      className={`text-xs font-semibold ${subCat === s.name ? "text-white/80" : "text-brand-teal"}`}
-                    >
-                      ({countInSubcategory(products, category, s.name)})
-                    </span>
-                  </span>
-                  <span
-                    className={`mt-1 block text-xs ${subCat === s.name ? "text-white/75" : "text-brand-charcoal/60"}`}
-                  >
-                    {s.blurb}
-                  </span>
-                </button>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
 
 
       <section className="mx-auto max-w-7xl px-4 py-12 md:px-8">
