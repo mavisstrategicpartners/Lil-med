@@ -199,6 +199,27 @@ export const categorySubcategories: Record<string, SubcategoryInfo[]> = {
       blurb: "Aerosols, air fresheners, bar soaps, toilet soaps and housekeeping sundries.",
     },
   ],
+  "Medical Equipments": [
+    { name: "Surgical & Medical Disposables", blurb: "Sterile gauze, drapes, suction catheters, bags and clinical disposables." },
+    { name: "Hypodermic Products", blurb: "Syringes, hypodermic needles, scalp vein sets and infusion sets." },
+    { name: "Gynecological Consumables", blurb: "Cervical cytology brushes, speculums, and examination disposables." },
+    { name: "Surgical Products", blurb: "Surgical blades, sutures, umbilical cord clamps and surgical essentials." },
+  ],
+  "Dental Equipment": [
+    { name: "Dental Products", blurb: "Dental restorative, periodontal, impression materials and instruments." },
+    { name: "Autoclave", blurb: "Class B benchtop autoclaves, sterilization sealers and monitoring systems." },
+    { name: "Endodontic", blurb: "Endo motors, apex locators and root canal treatment instruments." },
+    { name: "Ultrasonic Scaler", blurb: "Piezo ultrasonic scalers, tips, cleaners and prophy handpieces." },
+    { name: "Curing Light", blurb: "High-intensity LED curing lights and composite polymerization units." },
+    { name: "Delivery Unit", blurb: "Mobile dental delivery units, compressors, stools and handpiece kits." },
+  ],
+  "Laboratory Equipments": [
+    { name: "Freezers", blurb: "Deep storage -20°C, -25°C, -30°C and -40°C medical and laboratory freezers." },
+    { name: "Autoclaves", blurb: "Vertical and benchtop laboratory steam sterilizers and autoclaves." },
+    { name: "Incubators", blurb: "CO2 incubators, lighting incubators and constant-temperature chambers." },
+    { name: "Refrigerators", blurb: "Pharmacy refrigerators, 2-8°C vaccine storage and blood bank refrigeration." },
+    { name: "Laboratory Instruments & Accessories", blurb: "Centrifuges, mixers, shakers, water baths and bench instruments." },
+  ],
 };
 
 

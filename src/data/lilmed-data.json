@@ -281,26 +281,6 @@
    "productSubcategoryName": "Gynecological Consumables"
   },
   {
-   "id": 16,
-   "name": "Gynecological Examination Kit",
-   "model": "GEK-001",
-   "category": "medical-equipments",
-   "categoryName": "Medical Equipments",
-   "price": "Request Quote",
-   "description": "Complete gynecological examination kit with all necessary supplies.",
-   "image": "/Medical/Gynecological Examination Kit.jpg",
-   "featured": true,
-   "imageFolder": "",
-   "galleryImages": [],
-   "sourceCategory": "gynecological",
-   "usedFor": "Gynecological examination, screening, and women's health procedures.",
-   "minOrder": "5 units",
-   "productSubcategory": "gynecological-consumables",
-   "productSubcategoryName": "Gynecological Consumables",
-   "noExactImage": false,
-   "importedImage": true
-  },
-  {
    "id": 17,
    "name": "Examination Table - Gynecological",
    "model": "ETG-001",
@@ -1718,7 +1698,7 @@
    "categoryName": "Laboratory Products",
    "pdfCategory": "Autosampler Vials",
    "sourcePdf": "Autosampler Vial & Headspace Vial (1).pdf",
-   "description": "Polypropylene snap caps for 11mm snap-ring vials. Pre-assembled septa, secure audible click seal, compatible with Aijiren and other snap-ring vials; mainly recommended for HPLC applications.",
+   "description": "Polypropylene snap caps for 11mm snap-ring vials. Pre-assembled septa, secure audible click seal, compatible with standard snap-ring vials; mainly recommended for HPLC applications.",
    "imageFolder": "products",
    "galleryImages": [],
    "sourceCategory": "laboratory",
@@ -2144,31 +2124,6 @@
    "pdfCategory": "Dental Products",
    "sourcePdf": "Dental Products.pdf",
    "description": "Battery-operated dental device used to determine whether the nerve inside a tooth is alive or healthy. Listed output voltage 9.0V DC, output current 90mA, Class II equipment.",
-   "imageFolder": "products",
-   "galleryImages": [],
-   "sourceCategory": "dental",
-   "productSubcategory": "dental-products",
-   "productSubcategoryName": "Dental Products",
-   "importedImage": true,
-   "productFolderImage": true,
-   "noExactImage": false
-  },
-  {
-   "id": 86,
-   "price": "Request Quote",
-   "image": " DIAGNOdent.jpg",
-   "featured": false,
-   "minOrder": "1 unit",
-   "subcategory": "dental-products",
-   "pdfCatalogueProduct": true,
-   "usedFor": "Dental examination, treatment, infection control, or dental laboratory workflows.",
-   "name": "DIAGNOdent",
-   "model": "PDF-028",
-   "category": "dental-equipment",
-   "categoryName": "Dental Equipment",
-   "pdfCategory": "Dental Products",
-   "sourcePdf": "Dental Products.pdf",
-   "description": "Handheld laser fluorescence caries detection device used to identify early or hidden tooth decay. Uses red laser fluorescence feedback and gives display/acoustic indicators for detection.",
    "imageFolder": "products",
    "galleryImages": [],
    "sourceCategory": "dental",
@@ -2756,13 +2711,13 @@
   {
    "id": 110,
    "price": "Request Quote",
-   "image": "Aijiren 250ul Vial Insert, Glass Spring Bottom for 9, 10, 11mm Vials.jpg",
+   "image": "250ul Vial Insert, Glass Spring Bottom for 9, 10, 11mm Vials.jpg",
    "featured": false,
    "minOrder": "1 pack",
    "subcategory": "micro-vial-inserts",
    "pdfCatalogueProduct": true,
    "usedFor": "Laboratory sample handling, analysis, storage, microbiology, pathology, or chromatography workflows.",
-   "name": "Aijiren 250ul Vial Insert, Glass Spring Bottom for 9/10/11mm Vials",
+   "name": "250ul Vial Insert, Glass Spring Bottom for 9/10/11mm Vials",
    "model": "PDF-052",
    "category": "laboratory-products",
    "categoryName": "Laboratory Products",
@@ -3945,13 +3900,13 @@
    "id": 160,
    "price": "Request Quote",
    "galleryImages": [],
-   "name": "Conductive pipette tips for Uranus AE120 1000 \u03bcl",
+   "name": "Conductive pipette tips for Uranus AE120 1000 μl",
    "model": "B1-015",
    "category": "laboratory-products",
    "categoryName": "Laboratory Products",
    "pdfCategory": "Laboratory Consumables",
    "sourcePdf": "LILMED.pdf",
-   "description": "Conductive pipette tips for Uranus AE120 1000 \u03bcl for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
+   "description": "Conductive pipette tips for Uranus AE120 1000 μl for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
    "image": "laboratory-pipette-sample-tube-consumables.jpg",
    "imageFolder": "imgs",
    "featured": false,
@@ -4449,13 +4404,13 @@
    "id": 184,
    "price": "Request Quote",
    "galleryImages": [],
-   "name": "Pipette Tip Fit for Eppendorf 10ul\u3001200UL\u30011000UL",
+   "name": "Pipette Tip Fit for Eppendorf 10ul、200UL、1000UL",
    "model": "B1-040",
    "category": "laboratory-products",
    "categoryName": "Laboratory Products",
    "pdfCategory": "Laboratory Consumables",
    "sourcePdf": "LILMED.pdf",
-   "description": "Pipette Tip Fit for Eppendorf 10ul\u3001200UL\u30011000UL for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
+   "description": "Pipette Tip Fit for Eppendorf 10ul、200UL、1000UL for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
    "image": "laboratory-pipette-sample-tube-consumables.jpg",
    "imageFolder": "imgs",
    "featured": false,
@@ -4470,13 +4425,13 @@
    "id": 185,
    "price": "Request Quote",
    "galleryImages": [],
-   "name": "Pipette Tip Fit for Gilson 10ul\u3001200UL\u30011000UL",
+   "name": "Pipette Tip Fit for Gilson 10ul、200UL、1000UL",
    "model": "B1-041",
    "category": "laboratory-products",
    "categoryName": "Laboratory Products",
    "pdfCategory": "Laboratory Consumables",
    "sourcePdf": "LILMED.pdf",
-   "description": "Pipette Tip Fit for Gilson 10ul\u3001200UL\u30011000UL for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
+   "description": "Pipette Tip Fit for Gilson 10ul、200UL、1000UL for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
    "image": "laboratory-pipette-sample-tube-consumables.jpg",
    "imageFolder": "imgs",
    "featured": false,
@@ -5121,13 +5076,13 @@
    "id": 216,
    "price": "Request Quote",
    "galleryImages": [],
-   "name": "Universal Tips with Filter for 10ul\u3001100ul\u3001200Ul\u30011000ul\u30011250ul Dispensers",
+   "name": "Universal Tips with Filter for 10ul、100ul、200Ul、1000ul、1250ul Dispensers",
    "model": "B1-072",
    "category": "laboratory-products",
    "categoryName": "Laboratory Products",
    "pdfCategory": "Laboratory Consumables",
    "sourcePdf": "LILMED.pdf",
-   "description": "Universal Tips with Filter for 10ul\u3001100ul\u3001200Ul\u30011000ul\u30011250ul Dispensers for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
+   "description": "Universal Tips with Filter for 10ul、100ul、200Ul、1000ul、1250ul Dispensers for accurate pipetting and liquid handling in laboratory sample preparation workflows.",
    "image": "laboratory-pipette-sample-tube-consumables.jpg",
    "imageFolder": "imgs",
    "featured": false,
@@ -5793,7 +5748,7 @@
      "folder": "drive-download-20260630T094004Z-3-001/culture plate-pipette"
     },
     {
-     "file": "\u6df1\u5b54\u677f.jpg",
+     "file": "深孔板.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/culture plate-pipette"
     }
    ],
@@ -5833,11 +5788,11 @@
      "folder": "drive-download-20260630T094004Z-3-001/cuvettes"
     },
     {
-     "file": "\u5206\u6790\u7ba1C1029.jpg",
+     "file": "分析管C1029.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/cuvettes"
     },
     {
-     "file": "\u8679\u5438\u5b9a\u91cf.jpg",
+     "file": "虹吸定量.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/cuvettes"
     }
    ],
@@ -5861,27 +5816,27 @@
    "imageFolder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube",
    "galleryImages": [
     {
-     "file": "\u7ea2\u7ba1.jpg",
+     "file": "红管.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     },
     {
-     "file": "\u7eff\u7ba1.jpg",
+     "file": "绿管.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     },
     {
-     "file": "\u84dd\u7ba1.jpg",
+     "file": "蓝管.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     },
     {
-     "file": "\u7d2b\u7ba1.jpg",
+     "file": "紫管.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     },
     {
-     "file": "\u7070\u7ba1.jpg",
+     "file": "灰管.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     },
     {
-     "file": "\u91c7\u8840\u9488.jpg",
+     "file": "采血针.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube"
     }
    ],
@@ -6069,11 +6024,11 @@
      "folder": "drive-download-20260630T094004Z-3-001/specimen container"
     },
     {
-     "file": "\u5916\u8d38K1018.jpg",
+     "file": "外贸K1018.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/specimen container"
     },
     {
-     "file": "\u5916\u8d38H1016-1.jpg",
+     "file": "外贸H1016-1.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/specimen container"
     },
     {
@@ -6081,7 +6036,7 @@
      "folder": "drive-download-20260630T094004Z-3-001/specimen container"
     },
     {
-     "file": "\u5916\u8d38K1012.jpg",
+     "file": "外贸K1012.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/specimen container"
     }
    ],
@@ -6117,11 +6072,11 @@
      "folder": "drive-download-20260630T094004Z-3-001/test tube-rack"
     },
     {
-     "file": "\u75c5\u6bd2\u91c7\u6837\u7ba1\u5b9a.jpg",
+     "file": "病毒采样管定.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/test tube-rack"
     },
     {
-     "file": "\u7ba1\u5e3d.jpg",
+     "file": "管帽.jpg",
      "folder": "drive-download-20260630T094004Z-3-001/test tube-rack"
     }
    ],
@@ -6991,14 +6946,14 @@
    "description": "9mm short-thread 2ml borosilicate autosampler vial with write-in patch, for Agilent and other robotic samplers.",
    "longDescription": "Manufactured from first hydrolytic class borosilicate glass for low extractables and consistent chromatographic baselines. Vials are dimensionally controlled for reliable operation in robotic and rotating-arm autosamplers, and are supplied clear or amber with an optional write-in patch for sample identification. Compatible micro-inserts allow accurate injection from limited sample volumes.",
    "specifications": {
-    "Volume": "1.5 \u2013 2.0 ml",
+    "Volume": "1.5 – 2.0 ml",
     "Dimensions": "12 x 32 mm",
     "Colour": "Clear or amber",
     "Neck": "Screw neck",
     "Neck diameter": "9 mm",
     "Material": "Borosilicate, 1st hydrolytic class glass",
     "Septa": "Non-slit, pre-slit, PTFE/silicone",
-    "Insert": "250 \u00b5l / 300 \u00b5l"
+    "Insert": "250 µl / 300 µl"
    },
    "image": "/vials/vial-9mm-2ml-short-thread-hplc-autosampler-vial.webp"
   },
@@ -7037,14 +6992,14 @@
    "description": "8-425 screw neck 2ml chromatography vial in clear or amber borosilicate glass.",
    "longDescription": "Manufactured from first hydrolytic class borosilicate glass for low extractables and consistent chromatographic baselines. Vials are dimensionally controlled for reliable operation in robotic and rotating-arm autosamplers, and are supplied clear or amber with an optional write-in patch for sample identification. Compatible micro-inserts allow accurate injection from limited sample volumes.",
    "specifications": {
-    "Volume": "1.5 \u2013 2.0 ml",
+    "Volume": "1.5 – 2.0 ml",
     "Dimensions": "11.6 x 32 mm",
     "Colour": "Clear or amber",
     "Neck": "Screw neck",
     "Neck diameter": "8 mm",
     "Material": "Borosilicate, 1st hydrolytic class glass",
     "Septa": "Non-slit, pre-slit, PTFE/silicone",
-    "Insert": "150 \u00b5l / 250 \u00b5l"
+    "Insert": "150 µl / 250 µl"
    },
    "image": "/vials/vial-8-425-2ml-screw-neck-hplc-autosampler-vial.webp"
   },
@@ -7083,14 +7038,14 @@
    "description": "Wide-mouth 10-425 screw neck 2ml vial, ideal for needle-wash and high-throughput analysis.",
    "longDescription": "Manufactured from first hydrolytic class borosilicate glass for low extractables and consistent chromatographic baselines. Vials are dimensionally controlled for reliable operation in robotic and rotating-arm autosamplers, and are supplied clear or amber with an optional write-in patch for sample identification. Compatible micro-inserts allow accurate injection from limited sample volumes.",
    "specifications": {
-    "Volume": "1.5 \u2013 2.0 ml",
+    "Volume": "1.5 – 2.0 ml",
     "Dimensions": "11.6 x 32 mm",
     "Colour": "Clear or amber",
     "Neck": "Screw neck",
     "Neck diameter": "10 mm",
     "Material": "Borosilicate, 1st hydrolytic class glass",
     "Septa": "Non-slit, pre-slit, PTFE/silicone",
-    "Insert": "250 \u00b5l / 300 \u00b5l"
+    "Insert": "250 µl / 300 µl"
    },
    "image": "/vials/vial-10-425-screw-neck-2ml-hplc-autosampler-vial.webp"
   },
@@ -7128,14 +7083,14 @@
    "description": "11mm crimp-top 2ml chromatography vial for the most secure, tamper-evident seal.",
    "longDescription": "Manufactured from first hydrolytic class borosilicate glass for low extractables and consistent chromatographic baselines. Vials are dimensionally controlled for reliable operation in robotic and rotating-arm autosamplers, and are supplied clear or amber with an optional write-in patch for sample identification. Compatible micro-inserts allow accurate injection from limited sample volumes.",
    "specifications": {
-    "Volume": "1.5 \u2013 2.0 ml",
+    "Volume": "1.5 – 2.0 ml",
     "Dimensions": "11.6 x 32 mm",
     "Colour": "Clear or amber",
     "Neck": "Crimp neck",
     "Neck diameter": "11 mm",
     "Material": "Borosilicate, 1st hydrolytic class glass",
     "Septa": "Non-slit, pre-slit, PTFE/silicone",
-    "Insert": "250 \u00b5l / 300 \u00b5l"
+    "Insert": "250 µl / 300 µl"
    },
    "image": "/vials/vial-11mm-crimp-top-2ml-autosampler-vial.webp"
   },
@@ -7171,17 +7126,17 @@
    "productSubcategoryName": "HPLC & GC Autosampler Vials",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "11mm snap-ring 2ml vial \u2014 universal fit for most autosamplers, no crimping tool required.",
+   "description": "11mm snap-ring 2ml vial — universal fit for most autosamplers, no crimping tool required.",
    "longDescription": "Manufactured from first hydrolytic class borosilicate glass for low extractables and consistent chromatographic baselines. Vials are dimensionally controlled for reliable operation in robotic and rotating-arm autosamplers, and are supplied clear or amber with an optional write-in patch for sample identification. Compatible micro-inserts allow accurate injection from limited sample volumes.",
    "specifications": {
-    "Volume": "1.5 \u2013 2.0 ml",
+    "Volume": "1.5 – 2.0 ml",
     "Dimensions": "11.6 x 32 mm",
     "Colour": "Clear or amber",
     "Neck": "Snap ring",
     "Neck diameter": "11 mm",
     "Material": "Borosilicate, 1st hydrolytic class glass",
     "Septa": "Non-slit, pre-slit, PTFE/silicone",
-    "Insert": "250 \u00b5l / 300 \u00b5l"
+    "Insert": "250 µl / 300 µl"
    },
    "image": "/vials/vial-11mm-snap-ring-2ml-autosampler-vial.webp"
   },
@@ -7195,7 +7150,7 @@
    "productSubcategoryName": "HPLC & GC Autosampler Vials",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "Polyethylene 11mm snap caps with PTFE/silicone septa \u2014 fast, tool-free sealing.",
+   "description": "Polyethylene 11mm snap caps with PTFE/silicone septa — fast, tool-free sealing.",
    "longDescription": "Precision-moulded closures produced to tight manufacturing tolerances and lined in a controlled environment. PTFE/silicone septa combine an inert PTFE contact face with a resilient silicone backing, giving excellent resealing after repeated punctures and resistance to strong acids and alkalis. Pre-slit septa are available to ease needle penetration and reduce coring on autosampler needles.",
    "specifications": {
     "Suitable for": "11 mm snap ring vials",
@@ -7287,7 +7242,7 @@
    "price": "Request Quote",
    "minOrder": "1 pack",
    "description": "Flat butyl rubber stopper with high chemical stability and ageing resistance.",
-   "longDescription": "Butyl rubber offers better chemical stability and ageing resistance than natural rubber while retaining elasticity, and contains no protein components \u2014 making it the preferred stopper for headspace and pharmaceutical sample vials.",
+   "longDescription": "Butyl rubber offers better chemical stability and ageing resistance than natural rubber while retaining elasticity, and contains no protein components — making it the preferred stopper for headspace and pharmaceutical sample vials.",
    "specifications": {
     "Material": "Butyl rubber",
     "Diameter": "20 mm",
@@ -7512,13 +7467,13 @@
    "productSubcategoryName": "EPA & TOC Vials",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "20\u201360ml EPA VOA storage vials for volatile organic analysis.",
+   "description": "20–60ml EPA VOA storage vials for volatile organic analysis.",
    "longDescription": "Environmental sampling vials produced from borosilicate glass and supplied with 24-400 or 15-425 screw closures fitted with PTFE/silicone septa. Designed for volatile organics, total organic carbon and purge-and-trap workflows where sample integrity and zero headspace contamination are critical.",
    "specifications": {
     "Name": "EPA VOA storage vial",
     "Material": "Borosilicate glass",
-    "Total volume": "20 \u2013 60 ml",
-    "Dimensions": "27.5 x 57 \u2013 140 mm",
+    "Total volume": "20 – 60 ml",
+    "Dimensions": "27.5 x 57 – 140 mm",
     "Neck": "24-400 screw neck",
     "Neck diameter": "24 mm",
     "Colour": "Clear or amber"
@@ -7586,7 +7541,7 @@
     "Material": "High borosilicate glass",
     "Bottom": "Round or flat bottom",
     "Sizes": "16 x 100 mm, 16 x 90 mm, 16 x 125 mm, 16 x 150 mm",
-    "Application": "COD testing \u2014 laboratories, chemical plants"
+    "Application": "COD testing — laboratories, chemical plants"
    },
    "image": "/vials/ct-16mm-cod-digestion-test-tube.webp"
   },
@@ -7600,10 +7555,10 @@
    "productSubcategoryName": "Culture & Test Tubes",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "8\u201315ml round-bottom borosilicate culture tube with black closed-top screw cap.",
+   "description": "8–15ml round-bottom borosilicate culture tube with black closed-top screw cap.",
    "longDescription": "Heavy-wall borosilicate tubes suitable for repeated heating, digestion and autoclaving. Supplied with solid-top screw caps for secure sample storage and transport in laboratory, water treatment and chemical plant environments.",
    "specifications": {
-    "Volume": "8 \u2013 15 ml",
+    "Volume": "8 – 15 ml",
     "Neck type": "Screw neck",
     "Cap": "Black screw cap, closed top",
     "Material": "Borosilicate glass",
@@ -7622,7 +7577,7 @@
    "productSubcategoryName": "Micro Vials",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "0.3ml crimp-neck micro vial with fused-in insert \u2014 no separate insert to place.",
+   "description": "0.3ml crimp-neck micro vial with fused-in insert — no separate insert to place.",
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Volume": "0.3 ml",
@@ -7668,10 +7623,10 @@
    "productSubcategoryName": "Vial Inserts",
    "price": "Request Quote",
    "minOrder": "1 pack",
-   "description": "150 / 250 / 300\u00b5l clear glass inserts for 1.5\u20132ml HPLC vials, flat or conical.",
+   "description": "150 / 250 / 300µl clear glass inserts for 1.5–2ml HPLC vials, flat or conical.",
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
-    "Volume": "150 \u00b5l, 250 \u00b5l, 300 \u00b5l",
+    "Volume": "150 µl, 250 µl, 300 µl",
     "Dimensions": "5 x 29 mm, 6 x 31 mm",
     "Material": "Clear glass",
     "Suits": "1.5 / 2 ml HPLC vials",
@@ -7703,7 +7658,7 @@
   },
   {
    "id": "A033",
-   "name": "300\u00b5l Micro Insert, Flat Bottom (100/pk)",
+   "name": "300µl Micro Insert, Flat Bottom (100/pk)",
    "model": "A033",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7711,11 +7666,11 @@
    "productSubcategoryName": "Vial Inserts",
    "price": "Request Quote",
    "minOrder": "100 / pack",
-   "description": "Type I300 flat-bottom 300\u00b5l glass insert for 9, 10 and 11mm vials.",
+   "description": "Type I300 flat-bottom 300µl glass insert for 9, 10 and 11mm vials.",
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "I300",
-    "Volume": "300 \u00b5l",
+    "Volume": "300 µl",
     "Dimensions": "6 x 31 mm",
     "Material": "Clear glass",
     "Suits": "9 mm, 10 mm, 11 mm HPLC vials",
@@ -7725,7 +7680,7 @@
   },
   {
    "id": "A034",
-   "name": "250\u00b5l Conical Bottom Vial Insert, 9/10/11mm (100/pk)",
+   "name": "250µl Conical Bottom Vial Insert, 9/10/11mm (100/pk)",
    "model": "A034",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7737,7 +7692,7 @@
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "IV250",
-    "Volume": "250 \u00b5l",
+    "Volume": "250 µl",
     "Dimensions": "5.7 x 31 mm",
     "Material": "Clear glass",
     "Suits": "9 mm, 10 mm, 11 mm vials",
@@ -7747,7 +7702,7 @@
   },
   {
    "id": "A035",
-   "name": "250\u00b5l Vial Insert, Glass with Spring Bottom (9/10/11mm)",
+   "name": "250µl Vial Insert, Glass with Spring Bottom (9/10/11mm)",
    "model": "A035",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7759,7 +7714,7 @@
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "IP250",
-    "Volume": "250 \u00b5l",
+    "Volume": "250 µl",
     "Dimensions": "5.7 x 29 mm",
     "Material": "Clear glass",
     "Suits": "9 mm, 10 mm, 11 mm vials",
@@ -7769,7 +7724,7 @@
   },
   {
    "id": "A036",
-   "name": "250\u00b5l Micro Insert, Flat Bottom for 8-425 Vials",
+   "name": "250µl Micro Insert, Flat Bottom for 8-425 Vials",
    "model": "A036",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7781,7 +7736,7 @@
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "I250",
-    "Volume": "250 \u00b5l",
+    "Volume": "250 µl",
     "Dimensions": "5 x 31 mm",
     "Material": "Clear glass",
     "Suits": "8-425 HPLC vials",
@@ -7791,7 +7746,7 @@
   },
   {
    "id": "A037",
-   "name": "150\u00b5l 8mm Conical Bottom Vial Insert",
+   "name": "150µl 8mm Conical Bottom Vial Insert",
    "model": "A037",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7803,7 +7758,7 @@
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "IV150",
-    "Volume": "150 \u00b5l",
+    "Volume": "150 µl",
     "Dimensions": "5 x 31 mm",
     "Material": "Clear glass",
     "Suits": "8-425 screw vials",
@@ -7813,7 +7768,7 @@
   },
   {
    "id": "A038",
-   "name": "150\u00b5l Vial Insert, Glass with Polymer Feet (8-425)",
+   "name": "150µl Vial Insert, Glass with Polymer Feet (8-425)",
    "model": "A038",
    "category": "micro-vial-inserts",
    "categoryName": "Micro Vials & Inserts",
@@ -7825,7 +7780,7 @@
    "longDescription": "Precision glass micro vials and inserts that allow accurate autosampler injection from very small sample volumes. Inserts are available with flat, conical and polymer-spring bases so the needle can reach the last microlitres of sample without carry-over or breakage.",
    "specifications": {
     "Type": "IP150",
-    "Volume": "150 \u00b5l",
+    "Volume": "150 µl",
     "Dimensions": "5 x 29 mm",
     "Material": "Clear glass",
     "Suits": "8-425 screw vials",
@@ -8055,7 +8010,7 @@
   },
   {
    "id": "LMD-0001",
-   "name": "LMD-0001 R46 Standard Speed Rotary Machine \u2013 Includes Pad Drive",
+   "name": "LMD-0001 R46 Standard Speed Rotary Machine – Includes Pad Drive",
    "model": "LMD-0001",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8064,17 +8019,17 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "150 RPM single disc rotary floor machine supplied with pad drive, for scrubbing, buffing, spray cleaning and carpet shampooing.",
-   "longDescription": "R46 Standard Speed Rotary Machine \u2013 Includes Pad Drive (LMD-0001) from the LilMed rotary machines \u2013 r46 range range. 150 RPM single disc rotary floor machine supplied with pad drive, for scrubbing, buffing, spray cleaning and carpet shampooing. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "R46 Standard Speed Rotary Machine – Includes Pad Drive (LMD-0001) from the LilMed rotary machines – r46 range range. 150 RPM single disc rotary floor machine supplied with pad drive, for scrubbing, buffing, spray cleaning and carpet shampooing. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0001",
-    "Range": "Rotary Machines \u2013 R46 Range",
+    "Range": "Rotary Machines – R46 Range",
     "Type": "Single disc rotary floor machine",
     "Speed": "150 RPM",
     "Working width": "460 mm (R46)",
     "Supplied with": "Pad drive",
     "Power": "230 V AC",
     "Applications": "Scrubbing, polishing, spray cleaning, carpet shampoo",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0001.webp"
   },
@@ -8089,15 +8044,15 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Clip-on solution tank for the R46 rotary machine allowing controlled chemical feed while scrubbing.",
-   "longDescription": "R46 Solution Tank (LMD-0002) from the LilMed accessories \u2013 r46 range range. Clip-on solution tank for the R46 rotary machine allowing controlled chemical feed while scrubbing. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "R46 Solution Tank (LMD-0002) from the LilMed accessories – r46 range range. Clip-on solution tank for the R46 rotary machine allowing controlled chemical feed while scrubbing. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0002",
-    "Range": "Accessories \u2013 R46 Range",
+    "Range": "Accessories – R46 Range",
     "Type": "Solution tank accessory",
     "Fits": "R46 rotary range",
     "Material": "Impact resistant plastic",
     "Feed": "Manual lever control",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0001.webp"
   },
@@ -8112,15 +8067,15 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Hard bristle scrubbing brush for the R46 rotary machine, for heavily soiled concrete, tiles and textured floors.",
-   "longDescription": "R46 Hard Brush (LMD-0003) from the LilMed accessories \u2013 r46 range range. Hard bristle scrubbing brush for the R46 rotary machine, for heavily soiled concrete, tiles and textured floors. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "R46 Hard Brush (LMD-0003) from the LilMed accessories – r46 range range. Hard bristle scrubbing brush for the R46 rotary machine, for heavily soiled concrete, tiles and textured floors. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0003",
-    "Range": "Accessories \u2013 R46 Range",
+    "Range": "Accessories – R46 Range",
     "Type": "Rotary scrubbing brush",
     "Bristle": "Hard",
     "Diameter": "460 mm",
     "Fits": "R46 rotary range",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0003.webp"
   },
@@ -8135,15 +8090,15 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Soft bristle brush for the R46 rotary machine, for polished, sealed and delicate floor finishes.",
-   "longDescription": "R46 Soft Brush (LMD-0004) from the LilMed accessories \u2013 r46 range range. Soft bristle brush for the R46 rotary machine, for polished, sealed and delicate floor finishes. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "R46 Soft Brush (LMD-0004) from the LilMed accessories – r46 range range. Soft bristle brush for the R46 rotary machine, for polished, sealed and delicate floor finishes. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0004",
-    "Range": "Accessories \u2013 R46 Range",
+    "Range": "Accessories – R46 Range",
     "Type": "Rotary brush",
     "Bristle": "Soft",
     "Diameter": "460 mm",
     "Fits": "R46 rotary range",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0003.webp"
   },
@@ -8158,15 +8113,15 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Pad drive plate that holds standard floor pads on the R46 rotary machine.",
-   "longDescription": "R46 Pad Drive (LMD-0005) from the LilMed accessories \u2013 r46 range range. Pad drive plate that holds standard floor pads on the R46 rotary machine. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "R46 Pad Drive (LMD-0005) from the LilMed accessories – r46 range range. Pad drive plate that holds standard floor pads on the R46 rotary machine. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0005",
-    "Range": "Accessories \u2013 R46 Range",
+    "Range": "Accessories – R46 Range",
     "Type": "Pad drive plate",
     "Diameter": "460 mm",
     "Fits": "R46 rotary range",
     "Use": "Holds standard 17\" floor pads",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0003.webp"
   },
@@ -8190,12 +8145,12 @@
     "Number of brushes": "1 (disc)",
     "Solution tank": "50 L",
     "Recovery tank": "50 L",
-    "Productivity": "1950 m\u00b2/h",
+    "Productivity": "1950 m²/h",
     "Voltage": "24 V DC / 230 V AC",
     "Weight without batteries": "80 kg",
     "Dimensions (L/W/H)": "1216 / 502 / 975 mm",
     "Includes": "2 x batteries, 1 x brush, built-in charger",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0006.webp"
   },
@@ -8218,7 +8173,7 @@
     "Outlying areas": "Excess of 50 km, limited to 100 km",
     "Additional areas": "Subject to quotation per request",
     "Cover": "Interval service and breakdown repair",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0006.webp"
   },
@@ -8242,7 +8197,7 @@
     "Tank material": "Plastic",
     "Power": "230 V AC",
     "Application": "Offices, clinics, light commercial",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0008.webp"
   },
@@ -8266,7 +8221,7 @@
     "Tank material": "Plastic",
     "Hose": "36 mm",
     "Power": "230 V AC",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0009.webp"
   },
@@ -8290,7 +8245,7 @@
     "Tank material": "Stainless steel",
     "Hose": "36 mm",
     "Motors": "1",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0010.webp"
   },
@@ -8314,13 +8269,13 @@
     "Tank material": "Stainless steel",
     "Motors": "1",
     "Hose": "36 mm",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0011.webp"
   },
   {
    "id": "LMD-0012",
-   "name": "LMD-0012 Cyclone 60 Wet & Dry Vacuum Cleaner 60lt Plastic \u2013 2 Motors",
+   "name": "LMD-0012 Cyclone 60 Wet & Dry Vacuum Cleaner 60lt Plastic – 2 Motors",
    "model": "LMD-0012",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8329,7 +8284,7 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "60 litre twin-motor wet and dry vacuum cleaner with plastic tank for high volume recovery.",
-   "longDescription": "Cyclone 60 Wet & Dry Vacuum Cleaner 60lt Plastic \u2013 2 Motors (LMD-0012) from the LilMed columbus vacuum cleaners range. 60 litre twin-motor wet and dry vacuum cleaner with plastic tank for high volume recovery. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Cyclone 60 Wet & Dry Vacuum Cleaner 60lt Plastic – 2 Motors (LMD-0012) from the LilMed columbus vacuum cleaners range. 60 litre twin-motor wet and dry vacuum cleaner with plastic tank for high volume recovery. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0012",
     "Range": "Columbus Vacuum Cleaners",
@@ -8338,13 +8293,13 @@
     "Tank material": "Plastic",
     "Motors": "2",
     "Application": "Industrial / large facility",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0012.webp"
   },
   {
    "id": "LMD-0013",
-   "name": "LMD-0013 Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel \u2013 2 Motors",
+   "name": "LMD-0013 Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel – 2 Motors",
    "model": "LMD-0013",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8353,7 +8308,7 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "80 litre twin-motor wet and dry vacuum cleaner with stainless steel tank for industrial recovery duties.",
-   "longDescription": "Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel \u2013 2 Motors (LMD-0013) from the LilMed columbus vacuum cleaners range. 80 litre twin-motor wet and dry vacuum cleaner with stainless steel tank for industrial recovery duties. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel – 2 Motors (LMD-0013) from the LilMed columbus vacuum cleaners range. 80 litre twin-motor wet and dry vacuum cleaner with stainless steel tank for industrial recovery duties. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0013",
     "Range": "Columbus Vacuum Cleaners",
@@ -8361,13 +8316,13 @@
     "Capacity": "80 L",
     "Tank material": "Stainless steel",
     "Motors": "2",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0013.webp"
   },
   {
    "id": "LMD-0014",
-   "name": "LMD-0014 Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel \u2013 3 Motors",
+   "name": "LMD-0014 Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel – 3 Motors",
    "model": "LMD-0014",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8376,7 +8331,7 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "80 litre three-motor wet and dry vacuum cleaner with stainless steel tank for the heaviest recovery duties.",
-   "longDescription": "Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel \u2013 3 Motors (LMD-0014) from the LilMed columbus vacuum cleaners range. 80 litre three-motor wet and dry vacuum cleaner with stainless steel tank for the heaviest recovery duties. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Cyclone 80 Wet & Dry Vacuum Cleaner 80lt Stainless Steel – 3 Motors (LMD-0014) from the LilMed columbus vacuum cleaners range. 80 litre three-motor wet and dry vacuum cleaner with stainless steel tank for the heaviest recovery duties. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0014",
     "Range": "Columbus Vacuum Cleaners",
@@ -8384,13 +8339,13 @@
     "Capacity": "80 L",
     "Tank material": "Stainless steel",
     "Motors": "3",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0014.webp"
   },
   {
    "id": "LMD-0015",
-   "name": "LMD-0015 Hose Only 36mm \u2013 Zephyr / Cyclone 15",
+   "name": "LMD-0015 Hose Only 36mm – Zephyr / Cyclone 15",
    "model": "LMD-0015",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8399,20 +8354,20 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Replacement 36 mm suction hose for Zephyr and Cyclone 15 vacuum cleaners.",
-   "longDescription": "Hose Only 36mm \u2013 Zephyr / Cyclone 15 (LMD-0015) from the LilMed vacuum cleaner spares & accessories range. Replacement 36 mm suction hose for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Hose Only 36mm – Zephyr / Cyclone 15 (LMD-0015) from the LilMed vacuum cleaner spares & accessories range. Replacement 36 mm suction hose for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0015",
     "Range": "Vacuum Cleaner Spares & Accessories",
     "Type": "Suction hose",
     "Diameter": "36 mm",
     "Fits": "Zephyr / Cyclone 15",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0009.webp"
   },
   {
    "id": "LMD-0016",
-   "name": "LMD-0016 Short Hose Connector 36mm \u2013 Zephyr / Cyclone 15",
+   "name": "LMD-0016 Short Hose Connector 36mm – Zephyr / Cyclone 15",
    "model": "LMD-0016",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8421,20 +8376,20 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Short 36 mm hose connector for Zephyr and Cyclone 15 vacuum cleaners.",
-   "longDescription": "Short Hose Connector 36mm \u2013 Zephyr / Cyclone 15 (LMD-0016) from the LilMed vacuum cleaner spares & accessories range. Short 36 mm hose connector for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Short Hose Connector 36mm – Zephyr / Cyclone 15 (LMD-0016) from the LilMed vacuum cleaner spares & accessories range. Short 36 mm hose connector for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0016",
     "Range": "Vacuum Cleaner Spares & Accessories",
     "Type": "Hose connector",
     "Diameter": "36 mm",
     "Fits": "Zephyr / Cyclone 15",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0009.webp"
   },
   {
    "id": "LMD-0017",
-   "name": "LMD-0017 Elbow Long Connector 36mm \u2013 Zephyr / Cyclone 15",
+   "name": "LMD-0017 Elbow Long Connector 36mm – Zephyr / Cyclone 15",
    "model": "LMD-0017",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8443,20 +8398,20 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Long elbow connector, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners.",
-   "longDescription": "Elbow Long Connector 36mm \u2013 Zephyr / Cyclone 15 (LMD-0017) from the LilMed vacuum cleaner spares & accessories range. Long elbow connector, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Elbow Long Connector 36mm – Zephyr / Cyclone 15 (LMD-0017) from the LilMed vacuum cleaner spares & accessories range. Long elbow connector, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0017",
     "Range": "Vacuum Cleaner Spares & Accessories",
     "Type": "Elbow connector",
     "Diameter": "36 mm",
     "Fits": "Zephyr / Cyclone 15",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0009.webp"
   },
   {
    "id": "LMD-0018",
-   "name": "LMD-0018 Steel Pipes Set 36mm \u2013 Zephyr / Cyclone 15",
+   "name": "LMD-0018 Steel Pipes Set 36mm – Zephyr / Cyclone 15",
    "model": "LMD-0018",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8465,7 +8420,7 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Set of 36 mm steel extension pipes for Zephyr and Cyclone 15 vacuum cleaners.",
-   "longDescription": "Steel Pipes Set 36mm \u2013 Zephyr / Cyclone 15 (LMD-0018) from the LilMed vacuum cleaner spares & accessories range. Set of 36 mm steel extension pipes for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Steel Pipes Set 36mm – Zephyr / Cyclone 15 (LMD-0018) from the LilMed vacuum cleaner spares & accessories range. Set of 36 mm steel extension pipes for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0018",
     "Range": "Vacuum Cleaner Spares & Accessories",
@@ -8473,13 +8428,13 @@
     "Diameter": "36 mm",
     "Material": "Steel",
     "Fits": "Zephyr / Cyclone 15",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0009.webp"
   },
   {
    "id": "LMD-0020",
-   "name": "LMD-0020 Carpet Combo Floor Tool 36mm \u2013 Zephyr / Cyclone 15",
+   "name": "LMD-0020 Carpet Combo Floor Tool 36mm – Zephyr / Cyclone 15",
    "model": "LMD-0020",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -8488,7 +8443,7 @@
    "price": "Request Quote",
    "minOrder": "1 unit",
    "description": "Combination carpet and hard floor tool, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners.",
-   "longDescription": "Carpet Combo Floor Tool 36mm \u2013 Zephyr / Cyclone 15 (LMD-0020) from the LilMed vacuum cleaner spares & accessories range. Combination carpet and hard floor tool, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
+   "longDescription": "Carpet Combo Floor Tool 36mm – Zephyr / Cyclone 15 (LMD-0020) from the LilMed vacuum cleaner spares & accessories range. Combination carpet and hard floor tool, 36 mm, for Zephyr and Cyclone 15 vacuum cleaners. Commissioned, serviced and supported by LilMed with genuine spares and interval service contracts available nationally. Pricing is confirmed per quotation and is subject to the Rate of Exchange per landed batch.",
    "specifications": {
     "Product code": "LMD-0020",
     "Range": "Vacuum Cleaner Spares & Accessories",
@@ -8496,7 +8451,7 @@
     "Diameter": "36 mm",
     "Surfaces": "Carpet and hard floor",
     "Fits": "Zephyr / Cyclone 15",
-    "Availability": "Confirm pricing and availability \u2014 subject to Rate of Exchange (ROE) per landed batch. Nett price."
+    "Availability": "Confirm pricing and availability — subject to Rate of Exchange (ROE) per landed batch. Nett price."
    },
    "image": "/cleaning/mach_LMD-0010.webp"
   },
@@ -8518,7 +8473,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r0_c0.webp"
   },
@@ -8540,7 +8495,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r0_c0.webp"
   },
@@ -8562,7 +8517,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 x 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r0_c1.webp"
   },
@@ -8584,7 +8539,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r0_c2.webp"
   },
@@ -8606,7 +8561,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r1_c0.webp"
   },
@@ -8628,7 +8583,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r1_c1.webp"
   },
@@ -8650,7 +8605,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r1_c2.webp"
   },
@@ -8672,7 +8627,7 @@
     "Ply": "2 Ply",
     "Pack size": "48 X 350 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r1_c3.webp"
   },
@@ -8694,7 +8649,7 @@
     "Ply": "2 Ply",
     "Pack size": "48 X 350 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r2_c1.webp"
   },
@@ -8716,7 +8671,7 @@
     "Ply": "1 Ply",
     "Pack size": "48 X 500 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r2_c2.webp"
   },
@@ -8738,7 +8693,7 @@
     "Ply": "2 Ply",
     "Pack size": "48 X 350 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r2_c3.webp"
   },
@@ -8760,7 +8715,7 @@
     "Ply": "2 Ply",
     "Pack size": "24 X 240",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r3_c0.webp"
   },
@@ -8783,7 +8738,7 @@
     "Pack size": "10 X 550m",
     "Size / capacity": "550m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r3_c1.webp"
   },
@@ -8806,7 +8761,7 @@
     "Pack size": "8X 550m",
     "Size / capacity": "550m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r3_c1.webp"
   },
@@ -8829,7 +8784,7 @@
     "Pack size": "6 X 150m",
     "Size / capacity": "150m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r3_c3.webp"
   },
@@ -8852,7 +8807,7 @@
     "Pack size": "6 X 125m",
     "Size / capacity": "125m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p29_r3_c3.webp"
   },
@@ -8874,7 +8829,7 @@
     "Ply": "1 Ply",
     "Pack size": "20 X 120 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r0_c0.webp"
   },
@@ -8894,7 +8849,7 @@
     "Product code": "NP319",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r0_c0.webp"
   },
@@ -8916,7 +8871,7 @@
     "Ply": "2 Ply",
     "Pack size": "20 X 100 Sheet",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r0_c1.webp"
   },
@@ -8939,7 +8894,7 @@
     "Pack size": "6 X 140m",
     "Size / capacity": "140m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r0_c2.webp"
   },
@@ -8962,7 +8917,7 @@
     "Pack size": "4 X 360m",
     "Size / capacity": "360m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r0_c3.webp"
   },
@@ -8985,7 +8940,7 @@
     "Pack size": "6 X 150m",
     "Size / capacity": "150m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r1_c0.webp"
   },
@@ -9008,7 +8963,7 @@
     "Pack size": "6 X 150m",
     "Size / capacity": "150m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r1_c1.webp"
   },
@@ -9031,7 +8986,7 @@
     "Pack size": "6 X 125m",
     "Size / capacity": "125m",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r1_c2.webp"
   },
@@ -9053,7 +9008,7 @@
     "Ply": "2 Ply",
     "Pack size": "12 X 200 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r2_c0.webp"
   },
@@ -9075,7 +9030,7 @@
     "Ply": "2 Ply",
     "Pack size": "10 X 200 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r2_c0.webp"
   },
@@ -9097,7 +9052,7 @@
     "Ply": "1 Ply",
     "Pack size": "10 X 200 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r2_c1.webp"
   },
@@ -9119,7 +9074,7 @@
     "Ply": "1 Ply",
     "Pack size": "20 X 100 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r2_c2.webp"
   },
@@ -9141,7 +9096,7 @@
     "Ply": "2 Ply",
     "Pack size": "12 X 2",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r2_c3.webp"
   },
@@ -9163,7 +9118,7 @@
     "Ply": "2 Ply",
     "Pack size": "40 X 90 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r3_c0.webp"
   },
@@ -9185,7 +9140,7 @@
     "Ply": "2 Ply",
     "Pack size": "40 X 90 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r3_c0.webp"
   },
@@ -9207,7 +9162,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "190mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r3_c1.webp"
   },
@@ -9229,7 +9184,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "160mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r3_c2.webp"
   },
@@ -9251,7 +9206,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "160mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p30_r3_c3.webp"
   },
@@ -9273,7 +9228,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "210mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r0_c0.webp"
   },
@@ -9295,7 +9250,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "270mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r0_c1.webp"
   },
@@ -9317,7 +9272,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "200mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r0_c2.webp"
   },
@@ -9339,7 +9294,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "300mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r0_c3.webp"
   },
@@ -9361,7 +9316,7 @@
     "Ply": "1 Ply",
     "Size / capacity": "210mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r1_c0.webp"
   },
@@ -9383,7 +9338,7 @@
     "Ply": "2 Ply",
     "Size / capacity": "300mm",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r1_c1.webp"
   },
@@ -9405,7 +9360,7 @@
     "Ply": "2 Ply",
     "Pack size": "18 X 100 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c1.webp"
   },
@@ -9427,7 +9382,7 @@
     "Ply": "2 Ply",
     "Pack size": "9 X 100 Sheets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c1.webp"
   },
@@ -9447,7 +9402,7 @@
     "Product code": "PON20",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c2.webp"
   },
@@ -9467,7 +9422,7 @@
     "Product code": "PON22",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c2.webp"
   },
@@ -9487,7 +9442,7 @@
     "Product code": "PON21",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c2.webp"
   },
@@ -9507,7 +9462,7 @@
     "Product code": "PON30",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r2_c3.webp"
   },
@@ -9527,7 +9482,7 @@
     "Product code": "PON014",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r3_c0.webp"
   },
@@ -9547,7 +9502,7 @@
     "Product code": "PON017",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r3_c0.webp"
   },
@@ -9567,7 +9522,7 @@
     "Product code": "PON26",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r3_c0.webp"
   },
@@ -9587,7 +9542,7 @@
     "Product code": "PON27",
     "Range": "Paper & Wiping Products",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p31_r3_c0.webp"
   },
@@ -9607,7 +9562,7 @@
     "Product code": "CJS021",
     "Range": "Cleaning Chemicals",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c0.webp"
   },
@@ -9628,7 +9583,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c0.webp"
   },
@@ -9649,7 +9604,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c1.webp"
   },
@@ -9670,7 +9625,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c1.webp"
   },
@@ -9691,7 +9646,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c2.webp"
   },
@@ -9712,7 +9667,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c2.webp"
   },
@@ -9733,7 +9688,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c3.webp"
   },
@@ -9754,7 +9709,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r0_c3.webp"
   },
@@ -9775,7 +9730,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c0.webp"
   },
@@ -9796,7 +9751,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c0.webp"
   },
@@ -9817,7 +9772,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c1.webp"
   },
@@ -9838,7 +9793,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c1.webp"
   },
@@ -9859,7 +9814,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c2.webp"
   },
@@ -9880,7 +9835,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c2.webp"
   },
@@ -9901,7 +9856,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r1_c3.webp"
   },
@@ -9922,7 +9877,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c0.webp"
   },
@@ -9943,7 +9898,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c0.webp"
   },
@@ -9964,7 +9919,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c1.webp"
   },
@@ -9985,7 +9940,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c1.webp"
   },
@@ -10006,7 +9961,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c2.webp"
   },
@@ -10027,7 +9982,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "200g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c2.webp"
   },
@@ -10048,7 +10003,7 @@
     "Range": "Cleaning Chemicals",
     "Available colours": "Green - Red - Yellow - Blue",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r2_c3.webp"
   },
@@ -10069,7 +10024,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c0.webp"
   },
@@ -10090,7 +10045,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "10kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c0.webp"
   },
@@ -10111,7 +10066,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "10kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c1.webp"
   },
@@ -10132,7 +10087,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c2.webp"
   },
@@ -10153,7 +10108,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c3.webp"
   },
@@ -10174,7 +10129,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p33_r3_c3.webp"
   },
@@ -10195,7 +10150,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c0.webp"
   },
@@ -10216,7 +10171,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c1.webp"
   },
@@ -10237,7 +10192,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c1.webp"
   },
@@ -10258,7 +10213,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c2.webp"
   },
@@ -10278,7 +10233,7 @@
     "Product code": "CJS1.14",
     "Range": "Cleaning Chemicals",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c2.webp"
   },
@@ -10299,7 +10254,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c3.webp"
   },
@@ -10320,7 +10275,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r0_c3.webp"
   },
@@ -10341,7 +10296,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c0.webp"
   },
@@ -10362,7 +10317,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c0.webp"
   },
@@ -10383,7 +10338,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c1.webp"
   },
@@ -10404,7 +10359,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c1.webp"
   },
@@ -10425,7 +10380,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c2.webp"
   },
@@ -10446,13 +10401,13 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c2.webp"
   },
   {
    "id": "CJS121",
-   "name": "CJS121 Spray & Bu\ufb00 5lt",
+   "name": "CJS121 Spray & Buﬀ 5lt",
    "model": "CJS121",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -10460,20 +10415,20 @@
    "productSubcategoryName": "Cleaning Chemicals",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "Spray & Bu\ufb00 5lt supplied under code CJS121.",
-   "longDescription": "Spray & Bu\ufb00 5lt (CJS121) forms part of the LilMed cleaning chemicals range. Concentrated South African manufactured cleaning chemical supplied in sealed containers with full safety data available on request. Dilution guidance supplied with every order. Full specification: Spray & Bu\ufb00 5lt. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "Spray & Buﬀ 5lt supplied under code CJS121.",
+   "longDescription": "Spray & Buﬀ 5lt (CJS121) forms part of the LilMed cleaning chemicals range. Concentrated South African manufactured cleaning chemical supplied in sealed containers with full safety data available on request. Dilution guidance supplied with every order. Full specification: Spray & Buﬀ 5lt. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "CJS121",
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c3.webp"
   },
   {
    "id": "CJS122",
-   "name": "CJS122 Spry & Bu\ufb00 25lt",
+   "name": "CJS122 Spry & Buﬀ 25lt",
    "model": "CJS122",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -10481,14 +10436,14 @@
    "productSubcategoryName": "Cleaning Chemicals",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "Spry & Bu\ufb00 25lt supplied under code CJS122.",
-   "longDescription": "Spry & Bu\ufb00 25lt (CJS122) forms part of the LilMed cleaning chemicals range. Concentrated South African manufactured cleaning chemical supplied in sealed containers with full safety data available on request. Dilution guidance supplied with every order. Full specification: Spry & Bu\ufb00 25lt. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "Spry & Buﬀ 25lt supplied under code CJS122.",
+   "longDescription": "Spry & Buﬀ 25lt (CJS122) forms part of the LilMed cleaning chemicals range. Concentrated South African manufactured cleaning chemical supplied in sealed containers with full safety data available on request. Dilution guidance supplied with every order. Full specification: Spry & Buﬀ 25lt. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "CJS122",
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r1_c3.webp"
   },
@@ -10509,7 +10464,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c0.webp"
   },
@@ -10530,7 +10485,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c0.webp"
   },
@@ -10552,7 +10507,7 @@
     "Size / capacity": "5kg",
     "Available colours": "White-Red -Black",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c1.webp"
   },
@@ -10574,7 +10529,7 @@
     "Size / capacity": "20kg",
     "Available colours": "White-Red -Black",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c1.webp"
   },
@@ -10595,7 +10550,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "2lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c2.webp"
   },
@@ -10616,7 +10571,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c3.webp"
   },
@@ -10637,7 +10592,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r2_c3.webp"
   },
@@ -10658,7 +10613,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c0.webp"
   },
@@ -10679,7 +10634,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c0.webp"
   },
@@ -10700,7 +10655,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c1.webp"
   },
@@ -10721,7 +10676,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c1.webp"
   },
@@ -10742,7 +10697,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c2.webp"
   },
@@ -10763,7 +10718,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c2.webp"
   },
@@ -10784,7 +10739,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c3.webp"
   },
@@ -10805,7 +10760,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p34_r3_c3.webp"
   },
@@ -10826,7 +10781,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c0.webp"
   },
@@ -10847,7 +10802,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c0.webp"
   },
@@ -10868,7 +10823,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "800ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c1.webp"
   },
@@ -10889,7 +10844,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "800ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c1.webp"
   },
@@ -10910,7 +10865,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c2.webp"
   },
@@ -10931,7 +10886,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c2.webp"
   },
@@ -10952,7 +10907,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c3.webp"
   },
@@ -10973,7 +10928,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r0_c3.webp"
   },
@@ -10994,7 +10949,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c0.webp"
   },
@@ -11015,7 +10970,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c1.webp"
   },
@@ -11036,7 +10991,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c2.webp"
   },
@@ -11057,7 +11012,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c2.webp"
   },
@@ -11078,7 +11033,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c3.webp"
   },
@@ -11099,7 +11054,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r1_c3.webp"
   },
@@ -11120,7 +11075,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c0.webp"
   },
@@ -11141,7 +11096,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c1.webp"
   },
@@ -11162,7 +11117,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c1.webp"
   },
@@ -11183,7 +11138,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c2.webp"
   },
@@ -11204,7 +11159,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c2.webp"
   },
@@ -11225,7 +11180,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c3.webp"
   },
@@ -11246,7 +11201,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r2_c3.webp"
   },
@@ -11267,7 +11222,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c0.webp"
   },
@@ -11288,7 +11243,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c0.webp"
   },
@@ -11309,7 +11264,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c1.webp"
   },
@@ -11330,7 +11285,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c1.webp"
   },
@@ -11351,7 +11306,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c2.webp"
   },
@@ -11372,7 +11327,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c2.webp"
   },
@@ -11393,7 +11348,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c3.webp"
   },
@@ -11414,7 +11369,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p35_r3_c3.webp"
   },
@@ -11435,7 +11390,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c0.webp"
   },
@@ -11456,7 +11411,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c0.webp"
   },
@@ -11477,7 +11432,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c1.webp"
   },
@@ -11498,7 +11453,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c1.webp"
   },
@@ -11519,7 +11474,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c2.webp"
   },
@@ -11540,7 +11495,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c2.webp"
   },
@@ -11561,7 +11516,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c3.webp"
   },
@@ -11582,7 +11537,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r0_c3.webp"
   },
@@ -11603,7 +11558,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c0.webp"
   },
@@ -11624,7 +11579,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c0.webp"
   },
@@ -11645,7 +11600,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c1.webp"
   },
@@ -11666,7 +11621,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "20kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c1.webp"
   },
@@ -11687,7 +11642,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c2.webp"
   },
@@ -11708,7 +11663,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c2.webp"
   },
@@ -11729,7 +11684,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "5lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c3.webp"
   },
@@ -11750,7 +11705,7 @@
     "Range": "Cleaning Chemicals",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p36_r1_c3.webp"
   },
@@ -11772,7 +11727,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r0_c0.webp"
   },
@@ -11794,7 +11749,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r0_c1.webp"
   },
@@ -11816,7 +11771,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r0_c2.webp"
   },
@@ -11838,7 +11793,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r0_c3.webp"
   },
@@ -11860,7 +11815,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r1_c0.webp"
   },
@@ -11882,7 +11837,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r1_c1.webp"
   },
@@ -11903,7 +11858,7 @@
     "Range": "Dispensers",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r1_c2.webp"
   },
@@ -11925,7 +11880,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r1_c3.webp"
   },
@@ -11945,7 +11900,7 @@
     "Product code": "DISP499",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c0.webp"
   },
@@ -11965,7 +11920,7 @@
     "Product code": "DISP510",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c1.webp"
   },
@@ -11986,7 +11941,7 @@
     "Range": "Dispensers",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c2.webp"
   },
@@ -12006,7 +11961,7 @@
     "Product code": "KDISPTR2",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c3.webp"
   },
@@ -12026,7 +11981,7 @@
     "Product code": "DISPTR3",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c3.webp"
   },
@@ -12047,7 +12002,7 @@
     "Range": "Dispensers",
     "Available colours": "White Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r2_c3.webp"
   },
@@ -12067,7 +12022,7 @@
     "Product code": "DISPSSTR2",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c0.webp"
   },
@@ -12087,7 +12042,7 @@
     "Product code": "DISPSSTR3",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c0.webp"
   },
@@ -12108,7 +12063,7 @@
     "Range": "Dispensers",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c0.webp"
   },
@@ -12128,7 +12083,7 @@
     "Product code": "NP529",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c1.webp"
   },
@@ -12148,7 +12103,7 @@
     "Product code": "SEATW1",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c2.webp"
   },
@@ -12168,7 +12123,7 @@
     "Product code": "SEATW2",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c2.webp"
   },
@@ -12189,7 +12144,7 @@
     "Range": "Dispensers",
     "Size / capacity": "5kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p38_r3_c3.webp"
   },
@@ -12211,7 +12166,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r0_c0.webp"
   },
@@ -12233,7 +12188,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r0_c1.webp"
   },
@@ -12253,7 +12208,7 @@
     "Product code": "DISPSF800ml",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r0_c3.webp"
   },
@@ -12275,7 +12230,7 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c0.webp"
   },
@@ -12296,7 +12251,7 @@
     "Range": "Dispensers",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c1.webp"
   },
@@ -12316,7 +12271,7 @@
     "Product code": "DISPMICROA75ml",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c2.webp"
   },
@@ -12338,13 +12293,13 @@
     "Available colours": "White Plastic",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c2.webp"
   },
   {
    "id": "BLK004",
-   "name": "BLK004 75ml Microburst Re\ufb01ll",
+   "name": "BLK004 75ml Microburst Reﬁll",
    "model": "BLK004",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -12352,20 +12307,20 @@
    "productSubcategoryName": "Dispensers",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "75ml Microburst Re\ufb01ll supplied under code BLK004.",
-   "longDescription": "75ml Microburst Re\ufb01ll (BLK004) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: 75ml Microburst Re\ufb01ll. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "75ml Microburst Reﬁll supplied under code BLK004.",
+   "longDescription": "75ml Microburst Reﬁll (BLK004) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: 75ml Microburst Reﬁll. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "BLK004",
     "Range": "Dispensers",
     "Size / capacity": "75ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c3.webp"
   },
   {
    "id": "BLK005",
-   "name": "BLK005 250ml Re\ufb01ll Assorted",
+   "name": "BLK005 250ml Reﬁll Assorted",
    "model": "BLK005",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -12373,20 +12328,20 @@
    "productSubcategoryName": "Dispensers",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "250ml Re\ufb01ll Assorted supplied under code BLK005.",
-   "longDescription": "250ml Re\ufb01ll Assorted (BLK005) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: 250ml Re\ufb01ll Assorted. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "250ml Reﬁll Assorted supplied under code BLK005.",
+   "longDescription": "250ml Reﬁll Assorted (BLK005) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: 250ml Reﬁll Assorted. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "BLK005",
     "Range": "Dispensers",
     "Size / capacity": "250ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c3.webp"
   },
   {
    "id": "BLK037",
-   "name": "BLK037 Mandarine Urinal Re\ufb01ll",
+   "name": "BLK037 Mandarine Urinal Reﬁll",
    "model": "BLK037",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -12394,13 +12349,13 @@
    "productSubcategoryName": "Dispensers",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "Mandarine Urinal Re\ufb01ll supplied under code BLK037.",
-   "longDescription": "Mandarine Urinal Re\ufb01ll (BLK037) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: Mandarine Urinal Re\ufb01ll. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "Mandarine Urinal Reﬁll supplied under code BLK037.",
+   "longDescription": "Mandarine Urinal Reﬁll (BLK037) forms part of the LilMed dispensers range. Wall-mounted dispenser supplied complete with fixings and keys where applicable. Designed for durability in busy washrooms, clinics and kitchens. Full specification: Mandarine Urinal Reﬁll. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "BLK037",
     "Range": "Dispensers",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p39_r1_c3.webp"
   },
@@ -12415,13 +12370,13 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "TR2 Stainless Steel supplied under code LET001.",
-   "longDescription": "TR2 Stainless Steel (LET001) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR2 Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "TR2 Stainless Steel (LET001) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR2 Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET001",
     "Range": "Stainless Steel Range",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c0.webp"
   },
@@ -12436,13 +12391,13 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "TR3 Stainless Steel supplied under code LET002.",
-   "longDescription": "TR3 Stainless Steel (LET002) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR3 Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "TR3 Stainless Steel (LET002) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR3 Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET002",
     "Range": "Stainless Steel Range",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c0.webp"
   },
@@ -12457,13 +12412,13 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "TR5Stainless Steel supplied under code LET003.",
-   "longDescription": "TR5Stainless Steel (LET003) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR5Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "TR5Stainless Steel (LET003) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: TR5Stainless Steel. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET003",
     "Range": "Stainless Steel Range",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c0.webp"
   },
@@ -12478,12 +12433,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Folded Towel Dispenser supplied under code LET004.",
-   "longDescription": "Folded Towel Dispenser (LET004) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Folded Towel Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Folded Towel Dispenser (LET004) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Folded Towel Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET004",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c1.webp"
   },
@@ -12498,12 +12453,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Reel Towel Dispenser supplied under code LET005.",
-   "longDescription": "Reel Towel Dispenser (LET005) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Reel Towel Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Reel Towel Dispenser (LET005) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Reel Towel Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET005",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c2.webp"
   },
@@ -12518,12 +12473,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Small Wall Bin supplied under code LET006.",
-   "longDescription": "Small Wall Bin (LET006) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Wall Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Small Wall Bin (LET006) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Wall Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET006",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r0_c3.webp"
   },
@@ -12538,12 +12493,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Small Sani Bin supplied under code LET008.",
-   "longDescription": "Small Sani Bin (LET008) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Sani Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Small Sani Bin (LET008) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Sani Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET008",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r1_c0.webp"
   },
@@ -12558,12 +12513,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Large Sani Bin supplied under code LET009.",
-   "longDescription": "Large Sani Bin (LET009) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Large Sani Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Large Sani Bin (LET009) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Large Sani Bin. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET009",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r1_c0.webp"
   },
@@ -12578,12 +12533,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Micro Burst Cover supplied under code LET010.",
-   "longDescription": "Micro Burst Cover (LET010) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Micro Burst Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Micro Burst Cover (LET010) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Micro Burst Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET010",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r1_c1.webp"
   },
@@ -12598,12 +12553,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Auto Sani Cover supplied under code LET011.",
-   "longDescription": "Auto Sani Cover (LET011) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Auto Sani Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Auto Sani Cover (LET011) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Auto Sani Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET011",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r1_c2.webp"
   },
@@ -12618,12 +12573,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Small Sani Big Cover supplied under code LET012.",
-   "longDescription": "Small Sani Big Cover (LET012) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Sani Big Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Small Sani Big Cover (LET012) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Small Sani Big Cover. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET012",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r1_c3.webp"
   },
@@ -12638,12 +12593,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Top Up Soap Dispener supplied under code LET013.",
-   "longDescription": "Top Up Soap Dispener (LET013) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Top Up Soap Dispener. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Top Up Soap Dispener (LET013) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Top Up Soap Dispener. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET013",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r2_c0.webp"
   },
@@ -12658,12 +12613,12 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "Foam Soap Dispenser supplied under code LET014.",
-   "longDescription": "Foam Soap Dispenser (LET014) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Foam Soap Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "Foam Soap Dispenser (LET014) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: Foam Soap Dispenser. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET014",
     "Range": "Stainless Steel Range",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r2_c1.webp"
   },
@@ -12678,13 +12633,13 @@
    "price": "Request Quote",
    "minOrder": "1 case",
    "description": "2.3 Hot Air Dryer (Stainless Steel) supplied under code LET015.",
-   "longDescription": "2.3 Hot Air Dryer (Stainless Steel) (LET015) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting \u2014 vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: 2.3 Hot Air Dryer (Stainless Steel). Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "longDescription": "2.3 Hot Air Dryer (Stainless Steel) (LET015) forms part of the LilMed stainless steel range range. Clean Cut stainless steel washroom fitting — vandal resistant, corrosion resistant and easy to sanitise, ideal for medical, food and industrial washrooms. Full specification: 2.3 Hot Air Dryer (Stainless Steel). Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "LET015",
     "Range": "Stainless Steel Range",
     "Material": "Stainless Steel",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p41_r2_c2.webp"
   },
@@ -12705,7 +12660,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Galvanised",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r0_c0.webp"
   },
@@ -12726,7 +12681,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Galvanised",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r0_c1.webp"
   },
@@ -12747,7 +12702,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r0_c2.webp"
   },
@@ -12769,7 +12724,7 @@
     "Size / capacity": "20lt",
     "Available colours": "Blue-Green-Red-Yelow",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r0_c3.webp"
   },
@@ -12791,7 +12746,7 @@
     "Size / capacity": "33lt",
     "Available colours": "Blue-Green-Red-Yelow",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r1_c0.webp"
   },
@@ -12813,7 +12768,7 @@
     "Available colours": "Blue-Green-Red-Yellow",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r1_c1.webp"
   },
@@ -12834,7 +12789,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r1_c2.webp"
   },
@@ -12855,7 +12810,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r1_c3.webp"
   },
@@ -12875,13 +12830,13 @@
     "Product code": "PM054",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r2_c0.webp"
   },
   {
    "id": "PM056",
-   "name": "PM056 Cha\ufb00eur Valet Trolley",
+   "name": "PM056 Chaﬀeur Valet Trolley",
    "model": "PM056",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -12889,13 +12844,13 @@
    "productSubcategoryName": "Janitorial Trolleys & Buckets",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "Cha\ufb00eur Valet Trolley supplied under code PM056.",
-   "longDescription": "Cha\ufb00eur Valet Trolley (PM056) forms part of the LilMed janitorial trolleys & buckets range. Heavy duty janitorial equipment built for daily commercial cleaning routines, with hard-wearing castors, moulded plastics and galvanised components where specified. Full specification: Cha\ufb00eur Valet Trolley. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "Chaﬀeur Valet Trolley supplied under code PM056.",
+   "longDescription": "Chaﬀeur Valet Trolley (PM056) forms part of the LilMed janitorial trolleys & buckets range. Heavy duty janitorial equipment built for daily commercial cleaning routines, with hard-wearing castors, moulded plastics and galvanised components where specified. Full specification: Chaﬀeur Valet Trolley. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "PM056",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r2_c1.webp"
   },
@@ -12916,7 +12871,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r2_c2.webp"
   },
@@ -12936,7 +12891,7 @@
     "Product code": "PM057",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r2_c3.webp"
   },
@@ -12956,7 +12911,7 @@
     "Product code": "PM058",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c0.webp"
   },
@@ -12976,7 +12931,7 @@
     "Product code": "PM059",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c1.webp"
   },
@@ -12996,7 +12951,7 @@
     "Product code": "PM060",
     "Range": "Janitorial Trolleys & Buckets",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c2.webp"
   },
@@ -13017,7 +12972,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Material": "Plastic",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c2.webp"
   },
@@ -13038,7 +12993,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Size / capacity": "20lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c3.webp"
   },
@@ -13059,7 +13014,7 @@
     "Range": "Janitorial Trolleys & Buckets",
     "Size / capacity": "25lt",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p43_r3_c3.webp"
   },
@@ -13080,7 +13035,7 @@
     "Range": "Safety Wear & Gloves",
     "Pack size": "2 X 20",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r0_c0.webp"
   },
@@ -13100,7 +13055,7 @@
     "Product code": "AH2705",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r0_c1.webp"
   },
@@ -13120,7 +13075,7 @@
     "Product code": "AH2706",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r0_c2.webp"
   },
@@ -13140,7 +13095,7 @@
     "Product code": "AH1100",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r0_c3.webp"
   },
@@ -13160,7 +13115,7 @@
     "Product code": "AH1104L",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r1_c0.webp"
   },
@@ -13180,13 +13135,13 @@
     "Product code": "AH1000",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r1_c1.webp"
   },
   {
    "id": "AH1001",
-   "name": "AH1001 Red PVC Open Cu\ufb00 Std Weight Glove 27cm",
+   "name": "AH1001 Red PVC Open Cuﬀ Std Weight Glove 27cm",
    "model": "AH1001",
    "category": "cleaning-hygiene-supplies",
    "categoryName": "Cleaning Products & Equipment",
@@ -13194,13 +13149,13 @@
    "productSubcategoryName": "Safety Wear & Gloves",
    "price": "Request Quote",
    "minOrder": "1 case",
-   "description": "Red PVC Open Cu\ufb00 Std Weight Glove 27cm supplied under code AH1001.",
-   "longDescription": "Red PVC Open Cu\ufb00 Std Weight Glove 27cm (AH1001) forms part of the LilMed safety wear & gloves range. Personal protective equipment for cleaning, laboratory and food-handling teams, supplied in standard commercial pack quantities. Full specification: Red PVC Open Cu\ufb00 Std Weight Glove 27cm. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
+   "description": "Red PVC Open Cuﬀ Std Weight Glove 27cm supplied under code AH1001.",
+   "longDescription": "Red PVC Open Cuﬀ Std Weight Glove 27cm (AH1001) forms part of the LilMed safety wear & gloves range. Personal protective equipment for cleaning, laboratory and food-handling teams, supplied in standard commercial pack quantities. Full specification: Red PVC Open Cuﬀ Std Weight Glove 27cm. Pricing is confirmed per quotation and is subject to pack size and delivery area.",
    "specifications": {
     "Product code": "AH1001",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r1_c2.webp"
   },
@@ -13220,7 +13175,7 @@
     "Product code": "AH1301L",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r1_c3.webp"
   },
@@ -13240,7 +13195,7 @@
     "Product code": "AH1201",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r2_c0.webp"
   },
@@ -13260,7 +13215,7 @@
     "Product code": "AH1404L",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r2_c1.webp"
   },
@@ -13280,7 +13235,7 @@
     "Product code": "AH1416",
     "Range": "Safety Wear & Gloves",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p45_r2_c2.webp"
   },
@@ -13301,7 +13256,7 @@
     "Range": "Aerosols, Soaps & Sundries",
     "Size / capacity": "400ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r0_c0.webp"
   },
@@ -13322,7 +13277,7 @@
     "Range": "Aerosols, Soaps & Sundries",
     "Size / capacity": "180ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r0_c1.webp"
   },
@@ -13343,7 +13298,7 @@
     "Range": "Aerosols, Soaps & Sundries",
     "Size / capacity": "300ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r0_c2.webp"
   },
@@ -13364,7 +13319,7 @@
     "Range": "Aerosols, Soaps & Sundries",
     "Size / capacity": "250ml",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r0_c3.webp"
   },
@@ -13386,7 +13341,7 @@
     "Pack size": "144 X 45g",
     "Size / capacity": "45g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r1_c0.webp"
   },
@@ -13408,7 +13363,7 @@
     "Pack size": "288 X 20g",
     "Size / capacity": "20g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r1_c1.webp"
   },
@@ -13430,7 +13385,7 @@
     "Pack size": "72 X 100g",
     "Size / capacity": "100g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r1_c2.webp"
   },
@@ -13452,7 +13407,7 @@
     "Pack size": "24 X 1kg",
     "Size / capacity": "1kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r1_c3.webp"
   },
@@ -13474,7 +13429,7 @@
     "Pack size": "144 X 50g",
     "Size / capacity": "50g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r2_c0.webp"
   },
@@ -13496,7 +13451,7 @@
     "Pack size": "25 X 1kg",
     "Size / capacity": "1kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r2_c1.webp"
   },
@@ -13518,7 +13473,7 @@
     "Pack size": "200 X 125g",
     "Size / capacity": "125g",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r2_c2.webp"
   },
@@ -13540,7 +13495,7 @@
     "Pack size": "25 X 1kg",
     "Size / capacity": "1kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r2_c3.webp"
   },
@@ -13562,7 +13517,7 @@
     "Pack size": "200 X 125kg",
     "Size / capacity": "125kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r3_c0.webp"
   },
@@ -13584,7 +13539,7 @@
     "Pack size": "24 X 1kg",
     "Size / capacity": "1kg",
     "Supply": "Standard case / carton quantity",
-    "Availability": "Stocked \u2014 confirm on quotation"
+    "Availability": "Stocked — confirm on quotation"
    },
    "image": "/cleaning/p47_r3_c1.webp"
   },
@@ -13944,7 +13899,7 @@
   {
    "id": "blood-collection-tubes-needles",
    "name": "Blood Collection Tubes & Needles",
-   "image": "\u9ec4\u7ba1.jpg",
+   "image": "黄管.jpg",
    "imageFolder": "drive-download-20260630T094004Z-3-001/disposable vacuum blood collection tube",
    "description": "Blood collection tubes, 0.5ml paediatric capillary tubes, and blood collection needles."
   },
